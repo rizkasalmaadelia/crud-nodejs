@@ -14,4 +14,5 @@ Make sure you already install npm and also don't forget to turn on apache and my
 - go to browser and enter url "localhost:3000/users"
 
 screenshot:
+![Capturegithub1](https://user-images.githubusercontent.com/42769768/75625600-41a88d80-5bf2-11ea-8529-92bdcff3dcb0.JPG)
 
