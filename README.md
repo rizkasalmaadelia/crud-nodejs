@@ -14,3 +14,4 @@ Make sure you already install npm and also don't forget to turn on apache and my
 - go to browser and enter url "localhost:3000/users"
 
 screenshot:
+![Uploading Capturegithub1.JPG…]()
