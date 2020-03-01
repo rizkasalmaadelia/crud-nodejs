@@ -18,6 +18,6 @@ screenshot:
 ![Capturegithub1](https://user-images.githubusercontent.com/42769768/75625600-41a88d80-5bf2-11ea-8529-92bdcff3dcb0.JPG)
 
 -add user
-![Capturegithub1](https://user-images.githubusercontent.com/42769768/75625600-41a88d80-5bf2-11ea-8529-92bdcff3dcb0.JPG)
+![Capturegithub2](https://user-images.githubusercontent.com/42769768/75625660-d9a67700-5bf2-11ea-8770-25763161f543.JPG)
 
 -edit user
